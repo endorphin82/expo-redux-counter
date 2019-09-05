@@ -4,9 +4,6 @@ import { connect } from "react-redux";
 import { add } from "../../AC";
 
 class Root extends Component {
-  // shouldComponentUpdate(nextProps, nextState) {
-  //   return nextProps.num !== this.props.num;
-  // }
 
   render() {
     console.log("props", this.props);
