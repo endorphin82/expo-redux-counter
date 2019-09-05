@@ -1,1 +1,1 @@
-my
+### [DEMO](https://snack.expo.io/@endorphin/github.com-endorphin82-expo-redux-counter)
