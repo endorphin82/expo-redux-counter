@@ -6,9 +6,7 @@ import { add } from "../../AC";
 class Root extends Component {
 
   render() {
-    console.log("props", this.props);
     const { add, count } = this.props;
-    console.log(count);
     return (
       <View style={styles.container}>
         <Text>Number increment {count} !</Text>
