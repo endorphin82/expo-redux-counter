@@ -1,1 +1,1 @@
-### <a href='https://snack.expo.io/@endorphin/github.com-endorphin82-expo-redux-counter' targett="_blank">DEMO</a>
+### <a href='https://snack.expo.io/@endorpkhin/github.com-endorphin82-expo-redux-counter' target="_blank">DEMO</a>
